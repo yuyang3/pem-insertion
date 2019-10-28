@@ -17,6 +17,7 @@ Please be sure to install:
 git clone https://github.com/yuyang3/pem-insertion
 ## Running
 > python pem-insertion.py -r1 R1 -r2 R2 -b BARCODE -p PRIMER -a ADAPTER -n NAME -m METAFILE -o OUTDIR -num NUMBER
+
 METAFILE must consist of four columns seprated by "," 
 for example:
 
